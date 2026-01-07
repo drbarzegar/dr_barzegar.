@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+<meta charset="UTF-8">
+<title>دکتر محمدرضا برزگر | ارتوپد</title>
+<style>
+body {
+  font-family: Tahoma;
+  margin: 0;
+  background: #f5f9ff;
+  direction: rtl;
+}
+header {
+  background: #0a4da3;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+section {
+  padding: 30px;
+}
+.card {
+  background: white;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+}
+footer {
+  background: #0a4da3;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
+</style>
+</head>
+<body>
+
+<header>
+  <h1>دکتر محمدرضا برزگر</h1>
+  <p>متخصص ارتوپدی</p>
+</header>
+
+<section>
+  <div class="card">
+    <h2>درباره دکتر</h2>
+    <p>متخصص ارتوپدی با سال‌ها تجربه در درمان بیماری‌های استخوان و مفاصل.</p>
+  </div>
+
+  <div class="card">
+    <h2>خدمات</h2>
+    <ul>
+      <li>درمان درد زانو</li>
+      <li>دیسک کمر و گردن</li>
+      <li>آسیب‌های ورزشی</li>
+    </ul>
+  </div>
+
+  <div class="card">
+    <h2>تماس با ما</h2>
+    <p>📞 09xxxxxxxxx</p>
+    <p>📍 آدرس مطب</p>
+  </div>
+</section>
+
+<footer>
+  © 2026 دکتر محمدرضا برزگر
+</footer>
+
+</body>
+</html>
